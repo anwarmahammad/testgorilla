@@ -1,0 +1,20 @@
+.test-load-more-btn-container{
+    text-align: center;
+}
+.load-more-btn{
+    background-color: #44aa97;
+    font-family: 'Open Sans';
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+    height: 60px;
+    width: 140px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+.text-center{
+    margin-left: auto;
+    margin-right: auto;
+}

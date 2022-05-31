@@ -1,0 +1,44 @@
+.test-measure-heading{
+    color: black;
+    font-weight: bold;
+    font-family: 'Poppins san-serif';
+    text-align: center;
+    padding-top: 140px;
+}
+.input-container{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.input-field-left{
+    width: 380px;
+    border: 2px solid #d9d9d9;
+    margin: 10px;
+    background-color: white;
+    border-radius: 5px;
+    height: 40px;
+}
+.input-field-right{
+    width: 250px;
+    border: 2px solid #d9d9d9;
+    margin: 10px;
+    background-color: white;
+    border-radius: 5px;
+    height: 40px;
+}
+@media screen and (max-width:800px){
+    .input-field-left{
+        width: 250px;
+        border: 2px solid #d9d9d9;
+        margin: 10px;
+        background-color: white;
+        border-radius: 5px;
+        height: 40px;
+    }
+}
+
+
+.icon-rtl {
+    padding-right: 25px;
+    background: url("https://static.thenounproject.com/png/101791-200.png") no-repeat right;
+    background-size: 20px;
+  }

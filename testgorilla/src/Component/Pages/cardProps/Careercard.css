@@ -1,0 +1,23 @@
+  /* career cards css */
+  .careercardbtn{
+   background-color:  #3c95ad;
+   color: white;
+   padding-left: 20px;
+   padding-right: 20px;
+   border: none;
+   
+  }
+  .careercardbtncre{
+      border: 2px solid black;
+      background-color: white;
+      color: black;
+      font-weight:600;
+      padding-left: 20px;
+      padding-right: 20px;
+  }
+  .careercardstyl{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  }
+  .careercardstyl:hover{
+      opacity: 0.5;
+  }

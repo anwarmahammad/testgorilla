@@ -1,0 +1,204 @@
+@import url("https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;600&family=Cormorant+Garamond:wght@300;400;500&family=Mulish:wght@200;300;400;500&family=Poppins:wght@100;200&family=Roboto+Serif:ital,opsz,wght@0,8..144,100;0,8..144,200;0,8..144,300;0,8..144,400;0,8..144,500;1,8..144,100;1,8..144,200;1,8..144,300;1,8..144,400&family=Roboto:ital,wght@0,100;0,300;1,100&display=swap");
+.pricin_row {
+  background-color: #1c1f1f;
+}
+.pricing_card {
+  background-color: hsl(0, 0%, 100%);
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.head_color {
+  background-color: #276678;
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+.price_head {
+  font-size: 20px;
+}
+.pricing_para {
+  font-size: 13px;
+}
+.price_money {
+  font-size: 20px;
+  color: #276678;
+  font-family: "Poppins";
+}
+.price_btn {
+  background-color: #44aa97;
+  color: white;
+  font-weight: 500;
+}
+.price_icon {
+  color: #44aa97;
+  font-size: 14px;
+}
+
+/* modal css */
+.Brand-modal-img {
+  width: 100%;
+  height: 100%;
+}
+
+.Brand-modal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid #ccc;
+  background: #fff;
+  overflow: auto;
+  border-radius: 10px;
+  outline: none;
+  padding: 5px;
+  box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.5);
+}
+
+.Brand-modal-color2 {
+  /* background: rgb(102 86 86); */
+  background: rgb(129 126 126);
+}
+.Brand-modal-color3 {
+  /* background: rgb(102 86 86); */
+  background: rgb(141 122 122 / 43%);
+}
+.Brand-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.75);
+  /* background-color: rgba(136, 118, 118, 0.75); */
+}
+.ReactModal__Overlay {
+  opacity: 0;
+  transition: opacity 500ms ease-in-out;
+}
+.ReactModal__Overlay--after-open {
+  opacity: 1;
+}
+.ReactModal__Overlay--before-close {
+  opacity: 0;
+}
+.Brand-modal-Button {
+  border: 1px solid black;
+  border-radius: 50%;
+  padding: 6px 8px;
+  float: right;
+  cursor: pointer;
+}
+.Button_color {
+  border: 1px solid black;
+  border-radius: 50%;
+  padding: 6px 8px;
+  float: right;
+  cursor: pointer;
+  background: #fff;
+}
+
+.table_width {
+  width: 460px;
+}
+.pricing_para_table {
+  font-size: 15px;
+}
+.price_icon_table {
+  font-size: 18px;
+  color: #44aa97;
+}
+.change_icon {
+  font-size: 40px;
+  color: #44aa97;
+}
+.borders{
+  border:none;
+  border-right: 8px solid #44aa97;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.onchange_btn{
+  border:1px solid gray;
+}
+.rechange_btn{
+  border:none;
+  background-color: white;
+}
+
+/* price poster */
+.poster_row{
+  background-color: #b8d3ca;
+}
+.poster_margin{
+  margin-top:80px
+}
+.poster_margin1{
+  margin-top:140px
+}
+.poster_icon{
+  font-size: 30px;
+  /* margin-right: 3px; */
+  float: right;
+}
+.poister_content{
+  font-size: 22px;
+  font-weight: 400;
+  color: black;
+  font-family: "Poppins", sans-serif;
+  margin-left: -14px;
+}
+
+@media screen and (max-width: 520px) {
+  .change_heading{
+      font-size: 14px;
+      font-family: "Poppins", sans-serif;
+      font-weight: bold;
+      color: black;
+    }
+    .change_para{
+      font-size: 13px;
+      font-family: "Poppins", sans-serif;
+    
+    }
+    .poister_content{
+      font-size: 16px;
+    }
+}
+@media screen and (min-width: 770px) and (max-width: 964px){
+  /* .poster_row{
+    display:flex;
+    flex-direction: column;
+  } */
+  /* .poster_margin{
+    width:100%;
+  } */
+  .poster_img{
+    margin-top: 171px;
+  }
+}
+@media screen and (max-width: 765px){
+  .hidden_style{
+  display: none;
+  }
+  }
+
+/* top */
+
+
+.back-to-topp{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  font-size: 40px;
+  cursor: pointer;
+  border:none;
+  box-shadow: none;
+  border-radius: 20px;
+  color: #44aa97;
+}
+
+.back-to-topp:hover {
+  /* background: rgb(49, 5, 90); */
+  color: rgb(86, 131, 86);
+}
+
+/* Just some color boxes to make the page longer */
+
+

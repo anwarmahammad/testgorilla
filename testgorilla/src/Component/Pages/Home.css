@@ -1,0 +1,2185 @@
+.main-div{
+    overflow-x: hidden;
+    margin-top: -10px;
+}
+.Homerow{
+    margin-top: 110px;
+}
+.test-gorilla-works-container{
+    background-color: #226679;
+
+}
+.test-gorilla-heading{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 35px;
+}
+.our-screening-para{
+    color: #fff;
+    font-size: 19px;
+    font-weight: 100;
+    margin: 10px;
+}
+.see-pricing-button{
+    background-color: #ffffff;
+    color: black;
+    border: none;
+}
+.request-demo-button{
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.sophia-bg{
+    background-color: #f78da7;
+}
+.sophia-img{
+    height: 620px;
+    width: 621px;
+}
+@media screen and (max-width:550px){
+    .sophia-img{
+        height: 310px;
+        width: 311px;
+    }
+}
+@media screen and (max-width:768px){
+    .main-div{
+      margin-top: -50px;
+    }
+}
+.five-thousand-companies-heading{
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+.company-logo{
+    height: 90px;
+    width: fit-content;
+    margin: 25px;
+}
+.hm-logo{
+    margin-left: 40px;
+}
+.crystal-ball-bg{
+    background-color: rgb(238,238,238);
+}
+.crystal-bal-heading{
+    font-weight: bold;
+    font-size: 45px;
+}
+.crystal-bal-para{
+    font-size: 19px;
+    font-weight: 100;
+    margin-top: 20px;
+}
+.crystal-button{
+    border: 2px solid #226679;
+    background-color: white;
+    color: #226679;
+}
+@media only screen and (max-width: 1024px)  {
+    .see-pricing-button {
+       margin-left: 30px;
+       margin-top: 20px;
+       margin-bottom: -10px;
+    }
+  }
+  @media only screen and (max-width: 768px)  {
+    .sophia-img {
+    width: 100%;
+    height: 100%;
+    }
+  }
+  /* Qulity.css */
+
+.quality-time-container{
+    background-color: rgb(203,212,203);
+}
+.quality-heading{
+    font-weight: bold;
+    font-size: 45px;
+}
+.quality-para{
+    font-weight: 200;
+    font-size: 20px;
+}
+.offer-positive-heading{
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 45px;
+}
+.offer-container{
+    background-color: #CCA45F;
+}
+.offer-second-container{
+    background-color: rgb(248,209,171);
+}
+.offer-heading{
+    font-weight: bold;
+    font-size: 45px;
+    color: white;
+}
+.offer-para{
+    font-weight: 200;
+    font-size: 20px;
+    color: #fff;
+}
+.offer-second-img{
+    height: 400px;
+    width: 450px;
+}
+
+
+
+  /* watch videos css */
+  @import url("https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;600&family=Cormorant+Garamond:wght@300;400;500&family=Mulish:wght@200;300;400;500&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,200&family=Roboto+Serif:ital,opsz,wght@0,8..144,100;0,8..144,200;0,8..144,300;0,8..144,400;0,8..144,500;1,8..144,100;1,8..144,200;1,8..144,300;1,8..144,400&family=Roboto:ital,wght@0,100;0,300;1,100&display=swap");
+html,body{
+    overflow-x: hidden;
+}
+.champion_bg {
+  background-color: #c8d7de;
+  padding: 60px 35px;
+}
+.champion_img-hidden {
+  display: none;
+}
+.champion_heading {
+  font-size: 30px;
+  font-family: "Poppins", sans-serif;
+  color: black;
+}
+.champion-para {
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+.champion_btn {
+  border: 2px solid black;
+  padding: 11px 20px;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 764px) {
+  .champion_content {
+    text-align: center;
+  }
+  .champion_img {
+    display: none;
+  }
+  .champion_img-hidden {
+    margin-top: 30px;
+    display: block;
+  }
+}
+
+/* .player-wrapper {
+    position: relative;
+    padding-top: 56.25%; /* 720 / 1280 = 0.5625 */
+/* width: 500px; */
+
+/* } */
+
+/* .react-player {
+    position: absolute;
+    height:300px;
+    top: 0;
+    left: 0;
+  } */
+
+.player {
+  padding-top: 70px;
+}
+.player_button {
+  padding: 8px 40px;
+  border-radius: 5px;
+  /* background-color: lightcyan 0.1; */
+  border: none;
+}
+
+.talent_row_bg {
+  background-color: #f5f6f6 !important;
+  padding: 50px 40px;
+  margin-top: 60px;
+}
+.talent_heading {
+  font-size: 36px;
+  font-family: "Poppins", sans-serif;
+  /* color: black; */
+}
+.talent_para {
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+.talent-btn {
+  border: 2px solid black;
+  padding: 11px 20px;
+  font-weight: bold;
+  margin: 20px;
+}
+.talent-signup-btn {
+  background-color: rgb(135, 196, 172);
+  padding: 11px 20px;
+  font-weight: bold;
+  margin: 20px;
+}
+
+@media screen and (max-width: 404px) {
+    .champion_heading, .talent_heading{
+        font-size: 20px;
+        font-family: "Poppins", sans-serif;
+        font-weight: bold;
+        color: black;
+      }
+      .champion-para,.talent_para {
+        font-size: 14px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+      }
+      .react-player{
+          max-width:100%;
+          height:50%;
+      }
+}
+
+
+
+/* Product Tour css */
+.Product{
+  margin-top: 90px;
+}
+.ProductTest{
+ background-color: #f0c37c;
+}
+.ProductHiring{
+  margin-left: 40px;
+  margin-top: 180px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 50px;
+ 
+}
+.Productpara1{
+  margin-left: 40px;
+  margin-right: 90px;
+  margin-top: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  
+}
+.Productbtn1{
+  margin-left: 40px;
+  margin-top: 20px;
+  background-color: white;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 18px;
+  font-weight: 600;
+
+}
+.Productbtn2{
+  margin-left: 20px;
+  margin-top: 20px;
+  background-color: #f0c37c;
+  border: 2px solid black;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.Productimg1{
+  background-color: #226679;
+}
+.Productorgan{
+  background-color: white;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-left: 6px solid #3c95ad;
+}
+.producticon{
+  font-size: 50px;
+  color: #479bb3;
+}
+.Productorgan1{
+  background-color: white;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-left: 6px solid #d39247;
+}
+.Production2{
+  font-size: 50px;
+  color:#d39247;
+}
+
+@media screen and (max-width: 768px) {
+  .Product {
+    margin-top: -10px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .ProductHiring {
+  padding-top: 40px;
+   margin-right: 20px;
+   margin-left: 20px;
+   font-size: 30px;
+   
+  }
+}
+@media screen and (max-width: 768px) {
+  .Productpara1 {
+   margin-right: 20px;
+   margin-left: 20px;
+   font-size: 15px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .ProductHiring  {
+   margin-top:85px ;
+  }
+}
+@media screen and (max-width: 768px) {
+  .Productbtn2  {
+   margin-bottom: 30px;
+   margin-left: 35px;
+   padding-left: 20px;
+   padding-right: 20px;
+  
+  }
+}
+@media screen and (max-width: 768px) {
+  .Productbtn1 {
+   margin-bottom: 30px;
+   margin-left: 35px;
+   padding-left: 20px;
+   padding-right: 20px;
+  
+  }
+}
+@media screen and (max-width: 350px) {
+  .Productbtn2 {
+   
+   margin-top: -10px;
+   margin-left: 30px;
+   
+  
+  }
+}
+@media screen and (max-width: 1024px) {
+  .prodimg1 {
+   
+  
+  width: 100%;
+  
+  }
+}
+@media screen and (max-width: 868px) {
+  .prodimg1 {
+   
+  
+ margin-top: 112px;
+  
+  }
+}
+.Product2{
+  margin-left: 60px;
+  margin-top: 50px;
+}
+.Productnumber{
+  color: #479bb3;
+  font-weight: bolder;
+}
+.Productcontent{
+  font-weight: bolder;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+.Productpara2{
+  font-size: 20px;
+  margin-top: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.Productcontent2{
+  margin-left: 70px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: -50px;
+}
+.Productpara3{
+  margin-left: 70px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.Producticon1{
+  font-size: 50px;
+  color: gray;
+ 
+ 
+}
+.Producticon2{
+  font-size: 50px;
+  color: gray;
+ 
+ 
+}
+.btnicon{
+  border: none;
+  background-color: white;
+}
+@media screen and (max-width: 768px) {
+  .Product2 {
+   margin-left: 30px;
+   margin-right: 30px;
+  
+  }
+}
+@media screen and (max-width: 768px) {
+  .Productcontent {
+   font-size: 40px;
+  
+  }
+}
+@media screen and (max-width: 768px) {
+  .Productpara2 {
+   font-size: 20px;
+  
+  }
+}
+@media screen and (max-width: 768px) {
+  .Productcreimg {
+   margin-top: 150px;
+  }
+}
+@media screen and (max-width: 425px) {
+  .Productcreimg {
+   margin-top: 50px;
+   margin-bottom: 30px;
+  }
+}
+.Product3{
+  background-color: #ec95ab;
+}
+.Product4{
+  background-color: #ec95ab;
+}
+.Productnumber2{
+  margin-left: 40px;
+  margin-top: 180px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 50px;
+}
+.ProductInvate{
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 40px;
+  font-weight: bold;
+  font-size: 50px;
+}
+.Productpara4{
+  font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+margin-left: 40px;
+margin-right: 40px;
+
+}
+@media screen and (max-width: 1024px) {
+  .prodimg2 {
+  width: 100%;
+  height: 100%;
+ 
+  }
+}
+@media screen and (max-width: 425px) {
+  .prodimg2 {
+ margin-top: 50px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .ProductInvate {
+font-size: 40px;
+}
+}
+@media screen and (max-width: 768px) {
+  .Productpara4 {
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+margin-left: 40px;
+margin-right: 40px;
+}
+}
+@media screen and (max-width: 1024px) {
+  .Productnumber2 {
+  
+  margin-top:80px;
+}
+}
+/* @media screen and (max-width: 1024px) {
+  .Productnumber2 {
+  
+  margin-top:80px;
+}
+} */
+@media screen and (max-width: 375px) {
+  .Productnumber2 {
+  
+  margin-top:50px;}
+}
+
+.Productmore1{
+  background-color: #e6f0f5;
+}
+
+.ProductMore{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 40px;
+  font-weight: bolder;
+
+}
+.Productioncontent5{
+  margin: 20px;
+}
+.Productioncontnt6{
+  margin-top: 20px;
+}
+.Productmore1{
+  margin-top: 20px;
+}
+@media screen and (max-width: 768px) {
+  .ProductMore {
+  margin-left: 30px;
+  font-size: 30px;
+}
+}
+.ProductContent7{
+  text-align: center;
+  margin-top: 80px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  font-weight:bold ;
+}
+.Productpara7{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin-top: 30px;
+}
+.Productpara8{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin-top: -10px;
+}
+.Productbtn3{
+  
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border: 2px solid black;
+  
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.Productbtn4{
+  margin-left: 20px;
+  background-color:#479bb3 ;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  font-weight: 400;
+  
+}
+.ProductCount9{
+  margin-bottom: 50px;
+}
+@media screen and (max-width: 425px) {
+  .ProductContent7{
+ 
+  font-size: 30px;
+}
+}
+@media screen and (max-width: 425px) {
+  .Productpara7,.Productpara8{
+ 
+  font-size: 20px;
+}
+}
+@media screen and (max-width: 425px) {
+  .Productnumber,.Productcontent{
+ 
+  font-size: 35px;
+}
+}
+
+
+
+
+/* Science Css */
+
+
+.main-div{
+  overflow-x: hidden;
+}
+.test-gorilla-works-science-container{
+  background-color: #B3C7BE;
+}
+.test-gorilla-science-heading{
+  color: black;
+  font-weight: bold;
+  font-size: 35px;
+}
+.our-screening-science-para{
+  color: black;
+  font-size: 19px;
+  font-weight: 100;
+}
+.see-pricing-science-button{
+  background-color: #FFFFFF;
+  color: black;
+  border: none;
+}
+.request-demo-science-button{
+  background-color:#b3c7be;
+  border: 2px solid black;
+  color: black;
+}
+.science-img-bg{
+  background-color: rgb(50, 121, 161);
+}
+.science-img{
+  height: 620px;
+  width: 621px;
+}
+@media screen and (max-width:768px){
+  .science-img{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:1024px){
+  .science-img{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:550px){
+  .science-img{
+      height: 310px;
+      width: 311px;
+  }
+}
+.science-top-padding{
+  padding-top: 100px;
+}
+/* 2nd row------ */
+.test-gorilla-works-science-container1{
+  background-color:white;
+}
+.test-gorilla-science-heading1{
+  color: black;
+  font-weight: bold;
+  font-size: 35px;
+}
+.our-screening-science-para1{
+  color: black;
+  font-size: 19px;
+  font-weight: 100;
+}
+.science-img-bg1{
+  background-color: white;
+}
+.science-img1{
+  height: 550px;
+  width: 621px;
+}
+@media screen and (max-width:768px){
+  .science-img1{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:1024px){
+  .science-img1{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:550px){
+  .science-img1{
+      height: 310px;
+      width: 311px;
+  }
+}
+.science-top-padding1{
+  padding-top: 70px;
+}
+/* 3rd row------ */
+.test-gorilla-works-science-container2{
+  background-color:rgb(221, 187, 187);
+}
+.test-gorilla-science-heading2{
+  color: black;
+  font-weight: bold;
+  font-size: 35px;
+}
+.our-screening-science-para2{
+  color: black;
+  font-size: 19px;
+  font-weight: 100;
+}
+.science-img-bg2{
+  background-color: rgb(221, 187, 187);
+}
+.science-img2{
+  height: 400px;
+  width: 621px;
+}
+@media screen and (max-width:768px){
+  .science-img2{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:1024px){
+  .science-img2{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:550px){
+  .science-img2{
+      height: 310px;
+      width: 311px;
+  }
+}
+.science-top-padding2{
+  padding-top: 20px;
+}
+.science-top-padding-head-2{
+  padding-top: 30px;
+}
+/* 4th row------ */
+.test-gorilla-works-science-container3{
+  background-color:white;
+}
+.test-gorilla-science-heading3{
+  color: black;
+  font-weight: bold;
+  font-size: 35px;
+}
+.our-screening-science-para3{
+  color: black;
+  font-size: 19px;
+  font-weight: 100;
+}
+.science-img-bg3{
+  background-color: white;
+}
+.science-img3{
+  height: 500px;
+  width: 600px;
+}
+@media screen and (max-width:768px){
+  .science-img3{
+     width: 100%;
+     height: 80%;
+  }
+}
+@media screen and (max-width:1024px){
+  .science-img3{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:550px){
+  .science-img3{
+      height: 310px;
+      width: 311px;
+  }
+}
+.science-top-padding3{
+  padding-top: 70px;
+}
+/* 5rd row------ */
+.test-gorilla-works-science-container4{
+  background-color:rgb(247, 221, 184);
+}
+.test-gorilla-science-heading4{
+  color: black;
+  font-weight: bold;
+  font-size: 35px;
+}
+.our-screening-science-para4{
+  color: black;
+  font-size: 19px;
+  font-weight: 100;
+}
+.science-img-bg4{
+  background-color: rgb(247, 221, 184);
+}
+.science-img4{
+  height: 500px;
+  width: 621px;
+}
+@media screen and (max-width:768px){
+  .science-img4{
+     width: 100%;
+     height: 90%;
+  }
+}
+@media screen and (max-width:1024px){
+  .science-img4{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:550px){
+  .science-img4{
+      height: 310px;
+      width: 311px;
+  }
+}
+.science-top-padding4{
+  padding-top: 30px;
+}
+.science-top-padding-head-4{
+  padding-top: 20px;
+}
+/* 6th row------ */
+.test-gorilla-works-science-container5{
+  background-color:white;
+}
+.test-gorilla-science-heading5{
+  color: black;
+  font-weight: bold;
+  font-size: 35px;
+}
+.our-screening-science-para5{
+  color: black;
+  font-size: 19px;
+  font-weight: 100;
+}
+.science-img-bg5{
+  background-color: white;
+}
+.science-img5{
+  height: 650px;
+  width: 550px;
+}
+@media screen and (max-width:768px){
+  .science-img5{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:1024px){
+  .science-img5{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:550px){
+  .science-img5{
+      height: 310px;
+      width: 311px;
+  }
+}
+.science-top-padding5{
+  padding-top:0px;
+}
+.science-top-padding-text-5{
+  padding-top: 70px;
+}
+/* 7rd row------ */
+.test-gorilla-works-science-container6{
+  background-color:rgb(221, 187, 187);
+}
+.test-gorilla-science-heading6{
+  color: black;
+  font-weight: bold;
+  font-size: 35px;
+}
+.our-screening-science-para6{
+  color: black;
+  font-size: 19px;
+  font-weight: 100;
+}
+.science-img-bg6{
+  background-color: rgb(221, 187, 187);
+}
+.science-img6{
+  height: 400px;
+  width: 621px;
+}
+@media screen and (max-width:768px){
+  .science-img6{
+     width: 100%;
+     height: 80%;
+  }
+}
+@media screen and (max-width:1024px){
+  .science-img6{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:550px){
+  .science-img6{
+      height: 310px;
+      width: 311px;
+  }
+}
+.science-top-padding6{
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+/* it is 8th css */
+.talent_row_bg {
+  background-color: #F5F6F6 !important;
+  padding: 50px 40px;
+}
+.talent_heading1 {
+  font-size: 36px;
+font-weight: 800;
+  /* color: black; */
+}
+.talent_para {
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+.talent-btn1 {
+  border: 2px solid black;
+  padding: 15px 30px;
+  font-weight: bold;
+  margin: 25px;
+}
+.talent-signup-btn1 {
+  background-color: rgb(135, 196, 172);
+  padding: 15px 25px;
+  font-weight: bold;
+  margin: 20px;
+}
+@media screen and (max-width: 404px) {
+    .talent_heading{
+        font-size: 20px;
+        font-family: "Poppins", sans-serif;
+        font-weight: bold;
+        color: black;
+      }
+      .talent_para {
+        font-size: 14px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+      }
+      .react-player{
+          max-width:100%;
+          height:50%;
+      }
+}
+
+/* Login.css */
+
+
+#exampleCheck1{
+  float: left;
+}
+.Reset{
+  float: right;
+  color: black;
+  font-weight: 500;
+  text-decoration: underline;
+  font-size: 15px;
+  padding: 0px;
+}
+.Span1{
+  color: rgb(59, 203, 203);
+}
+.border1{
+  border: 5px solid whitesmoke;
+  padding:  80px;
+  margin-top: 50px;
+}
+@media screen and (max-width:768px){
+  .border1{
+    
+    margin-top: 60px;
+    
+    height: 600px;
+  }
+}
+
+.Loginhead1 {
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  max-width: 500px;
+  width: 100%;
+  margin: auto;
+  margin-top: 50px;
+}
+@media screen and (max-width:768px){
+  .Loginhead1{
+    
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+    
+  }
+}
+.Loginhead1 > form {
+  width: 70%;
+  border: 1px solid #DFDFDF;
+  padding: 20px;
+  border-radius: 5px;
+  background: #fff;
+}
+.err {
+  color: red;
+  margin-right: 170px;
+  font-size: 14px;
+}
+
+
+/* Signup free Css */
+.Awardshead{
+  margin-top: 120px;
+  
+}
+.cards-head{
+  padding: 60px;
+  
+  }
+  #exampleCheck12{
+      float: left;
+  }
+  .Trylength{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-color: rgb(63, 167, 125) ;
+  }
+  .body-colors{
+    background-color: rgba(255, 255, 255, 0.829);
+  
+  }
+  .Get-started-head{
+    font-weight: 800;
+  }
+  @media (min-width: 634px) and (max-width: 768px) {
+    .Get-started-head{
+      font-weight: 800;
+      font-size: 20px;
+    }
+  }
+    @media (min-width: 320px) and (max-width: 645px) {
+      .Get-started-head{
+        font-weight: 800;
+        font-size: 20px;
+      }
+  }
+  .Try-buttons{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-color: rgb(63, 167, 125) ;
+    background-color:rgb(63, 167, 125) ;
+  }
+
+
+
+
+  /* Request Demo (talktosales) */
+  .next {
+    width: 100px;
+  }
+  .background-sales {
+    background-color: whitesmoke;
+    padding: 80px;
+  }
+  .talktosales {
+    border-radius: 20px;
+  }
+  .tsheading {
+    margin-top: 100px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .input1,
+  .input2,
+  .input3,
+  .input4,
+  .input5,
+  .input6,
+  .input7 {
+    padding: 15px;
+  }
+  .input1,
+  .input2,
+  .input3,
+  .input4,
+  .input5,
+  .drop1,
+  .drop2
+  :hover {
+    border: 1px solid aqua;
+  }
+  @media screen and (max-width:425px){
+    .background-sales{
+      
+      padding: 0px;
+    }
+  }
+  @media screen and (max-width:425px){
+    .tsheading{
+      
+      font-size: 30px;
+      padding: 20px;
+      margin-top: 70px;
+    }
+  }
+
+
+  /* Rest Password (Back to login) */
+
+  .Backto{
+    color: black;
+    font-weight: 500;
+    text-decoration: underline;
+}
+.backtologinborder{
+  border: 2px solid black;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+.backtologin{
+  margin-top: 150px;
+  margin-bottom: 100px;
+  width: 30%;
+  
+}
+@media screen and (max-width:425px){
+  .backtologin{
+    
+  width: 80%;
+  }
+}
+/* Back to top css */
+.scrool{
+  color: white !important;
+  background-color: rgb(54, 97, 177);
+}
+
+/* Legal css */
+.headers{
+  font-weight: 750;
+}
+.Terms-head{
+  font-weight: 800;
+}
+.margins-top{
+  margin-top: 100px;
+}
+
+
+/* Contact css */
+.contact {
+  background-color: #F5F6F6;
+  padding-top: 100px;
+}
+.contact-heading {
+  font-size: 50px;
+}
+.contact-heading-icon {
+  color: #44AA97;
+}
+.Cname {
+  margin-left: 30px;
+  font-weight: 700;
+}
+.next {
+  width: 100px;
+}
+.background-sales {
+  background-color: whitesmoke;
+  padding: 80px;
+}
+.Contactcard {
+  border-radius: 20px;
+  width: 100%;
+  margin: auto;
+}
+.tsheading {
+  margin-top: 100px;
+  font-weight: bold;
+  text-align: center;
+}
+.input1,
+.input2,
+.input3,
+.input4,
+.input5 {
+  padding: 15px;
+}
+.input1,
+.input2,
+.input3,
+.input4,
+.Textarea1,
+.input5:hover {
+  border: 1px solid aqua;
+}
+
+
+/* Blog css */
+.Blog{
+  background-color: #F5F6F6;
+}
+.blogHead{
+  margin-top: 50px;
+  text-align: center;
+  align-items: center;
+  letter-spacing: 5px;
+}
+.blogHead1{
+  font-weight: 500;
+  color: black;
+  margin-top: 90px;
+}
+.blogHeaddropdown{
+border: none;
+font-weight: 500;
+text-decoration: underline;
+background-color:rgb(255, 251, 251)
+
+}
+.blogHeaddropdown:hover{
+  color: #44AA97;
+}
+/* card */
+.cardl1{
+  border-radius: 20px;
+  margin: auto;
+  padding: 20px;
+  width: 100%;
+}
+.head1{
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 800;
+  color: black;
+}
+.cardr1{
+  border-radius: 20px;
+  padding: 20px;
+  width: 100%;
+  margin: auto;
+}
+.cardl2{
+  border-radius: 20px;
+  margin: auto;
+  padding: 20px;
+  width: 120%;
+}
+.rightcard1{
+  margin-top: 300px;
+  margin-right: 150px;
+  margin-bottom: -80px;
+}
+
+.bcrdlast{
+  margin-bottom: 100px;
+}
+@media screen  and (max-width:425px) {
+  .rightcard1{
+  margin-top:0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  padding: 50px;
+}
+}
+@media screen  and (min-width:768px) {
+  .rightcard1{
+  margin-right: 100px;
+}
+}
+@media screen  and (min-width:1440px) {
+  .blogRow{
+  margin-right: 50px;
+}
+}
+@media screen  and (max-width:425px) {
+  .leftcard1{
+  margin-top:0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  padding: 50px;
+}
+}
+
+
+/* Sitemap css */
+.sitemap{
+  background-color: #F5F6F6;
+  margin-top: 90px;
+}
+@media screen  and (max-width:768px) {
+  .sitemap{
+ margin-top: 70px;
+}
+}
+.site-head {
+  font-size: 50px;
+  margin-top: 90px;
+}
+.sitemap-icon{
+  color: #44AA97;
+}
+.Sname {
+  margin-left: 20px;
+  font-weight: 700;
+  font-size: 40px;
+
+}
+.line1{
+    border-bottom: 1px solid rgb(223, 221, 221);
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.sitemap-card-heading{
+    font-weight: bold;
+}
+.map-card1{
+    margin: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
+    border-radius: 20px;
+}
+.list1 a{
+    color: black;
+    font-size:20px;
+    font-weight: 500;
+    line-height: 50px;
+    text-decoration: none;
+}
+.list1 a:hover{
+    color: rgb(225, 216, 216);
+}
+::marker{
+    color: #44AA97;
+}
+.Arrow1{
+    color: #44AA97;
+    margin-left: 10px;
+    font-size: 20px;
+    margin-top: 00px;
+}
+@media screen  and ( max-width:768px){
+  .map-card1{
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+}
+
+/* ForSubject Css */
+.test-gorilla-works-science-container{
+  background-color: #B3C7BE;
+}
+.test-gorilla-science-heading{
+  color: black;
+  font-weight: bold;
+  font-size: 45px;
+}
+.our-screening-science-para{
+  color: black;
+  font-size: 19px;
+  font-weight: 100;
+}
+.see-pricing-science-button{
+  background-color: #FFFFFF;
+  color: black;
+  border: none;
+}
+.request-demo-science-button{
+  background-color:#b3c7be;
+  border: 2px solid black;
+  color: black;
+}
+.science-img-bg{
+  background-color: rgb(50, 121, 161);
+}
+.science-img{
+  height: 620px;
+  width: 621px;
+}
+@media screen and (max-width:768px){
+  .science-img{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:1024px){
+  .science-img{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:550px){
+  .science-img{
+      height: 310px;
+      width: 311px;
+  }
+}
+.science-top-padding{
+  padding-top: 100px;
+}
+/* 2nd row------ */
+.test-gorilla-works-science-container1{
+  background-color:white;
+}
+.test-gorilla-science-heading1{
+  color: black;
+  font-weight: bold;
+  font-size: 35px;
+}
+.our-screening-science-para1{
+  color: black;
+  font-size: 19px;
+  font-weight: 100;
+}
+.science-img-bg1{
+  background-color: white;
+}
+.science-img1{
+  height: 550px;
+  width: 621px;
+}
+@media screen and (max-width:768px){
+  .science-img1{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:1024px){
+  .science-img1{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:550px){
+  .science-img1{
+      height: 310px;
+      width: 311px;
+  }
+}
+.science-top-padding1{
+  padding-top: 70px;
+}
+/* 3rd row------ */
+.test-gorilla-works-science-container2{
+  background-color:rgb(221, 187, 187);
+}
+.test-gorilla-science-heading2{
+  color: black;
+  font-weight: bold;
+  font-size: 35px;
+}
+.our-screening-science-para2{
+  color: black;
+  font-size: 19px;
+  font-weight: 100;
+}
+.science-img-bg2{
+  background-color: rgb(221, 187, 187);
+}
+.science-img2{
+  height: 400px;
+  width: 621px;
+}
+@media screen and (max-width:768px){
+  .science-img2{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:1024px){
+  .science-img2{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:550px){
+  .science-img2{
+      height: 310px;
+      width: 311px;
+  }
+}
+.science-top-padding2{
+  padding-top: 20px;
+}
+.science-top-padding-head-2{
+  padding-top: 30px;
+}
+/* 4th row------ */
+.test-gorilla-works-science-container3{
+  background-color:white;
+}
+.test-gorilla-science-heading3{
+  color: black;
+  font-weight: bold;
+  font-size: 35px;
+}
+.our-screening-science-para3{
+  color: black;
+  font-size: 19px;
+  font-weight: 100;
+}
+.science-img-bg3{
+  background-color: white;
+}
+.science-img3{
+  height: 500px;
+  width: 600px;
+}
+@media screen and (max-width:768px){
+  .science-img3{
+     width: 100%;
+     height: 80%;
+  }
+}
+@media screen and (max-width:1024px){
+  .science-img3{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:550px){
+  .science-img3{
+      height: 310px;
+      width: 311px;
+  }
+}
+.science-top-padding3{
+  padding-top: 70px;
+}
+/* it is 8th css -----------------------------------------------------------------------*/
+.talent_row_bg {
+  background-color: #F5F6F6 !important;
+  padding: 50px 40px;
+}
+.talent_heading1 {
+  font-size: 36px;
+font-weight: 800;
+  /* color: black; */
+}
+.talent_para {
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+.talent-btn1 {
+  border: 2px solid black;
+  padding: 15px 30px;
+  font-weight: bold;
+  margin: 25px;
+}
+.talent-signup-btn1 {
+  background-color: rgb(135, 196, 172);
+  padding: 15px 25px;
+  font-weight: bold;
+  margin: 20px;
+}
+@media screen and (max-width: 404px) {
+    .talent_heading{
+        font-size: 20px;
+        font-family: "Poppins", sans-serif;
+        font-weight: bold;
+        color: black;
+      }
+      .talent_para {
+        font-size: 64px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+      }
+      .react-player{
+          max-width:100%;
+          height:50%;
+      }
+}
+@media screen and (max-width: 634px) {
+  .talent_para {
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+  }
+} 
+
+
+/* Career css */
+.Career{
+  margin-top: 90px;
+}
+.CareerTest{
+  background-color: #f0c37c;
+ }
+ .Careertext{
+   font-size: 50px;
+   margin-bottom: 30px;
+   margin-top: 30px;
+ }
+ .Careerimg2{
+   margin-bottom: 30px;
+ }
+ @media screen and (max-width: 430px) {
+  .Careertext {
+    font-size: 25px;
+  }
+} 
+@media screen and (max-width: 1024px) {
+  .Careerimg2 {
+    width: 100%;
+  }
+} 
+.Careertextvalue{
+  font-size: 40px;
+  font-weight: bold;
+ 
+}
+.Careertparavalue{
+  font-size: 20px;
+  margin-bottom: 50px;
+ 
+}
+.careercont{
+  margin-left: 100px;
+}
+.Careerpara2{
+  font-size: 20px;
+}
+.Careericon1{
+  font-size: 40px;
+  color: gray;
+  }
+  .careerbtnicon{
+    border: none;
+  }
+  .careerbtnicon:focus{
+    box-shadow: none;
+    background-color: #ffff;
+  }
+  .careerbtncard{
+    border-left: 10px solid #CCA45F;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    margin-right: 30px;
+  }
+  .careericonclr{
+    color: #CCA45F;
+    font-size: 30px;
+    font-weight: bolder;
+  }
+  .careerhtagjob{
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    margin-top: 50px;
+  }
+  .careerinput{
+    margin-left: 20px;
+    border-radius: 05px;
+    padding: 10px;
+    border: 1px solid gray;
+   
+  }
+  @media screen and (max-width: 1440px) {
+    .careercont {
+     margin: 30px;
+    }
+  } 
+  @media screen and (max-width: 780px) {
+    .careertexhtags {
+     font-size: 15px;
+     padding: 02px;
+    }
+    .careerbtncard{
+      padding: 02px;
+
+    }
+    .Careerpara2{
+      font-size: 16px;
+    }
+  } 
+  
+
+  /* Help Center Css */
+  .overflow{
+    margin-top: 100px;
+  }
+  .helpcentertopnav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #00BAF0;
+    /* background: linear-gradient(to left, #F46B45, #EEA849); */
+    background-color: #C8D7DE;
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: #FFF;
+    height: 50px;
+    padding: 1em;
+  }
+  .helpcentermenu {
+      display: flex;
+      flex-direction: row;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+  }
+  .helpcentermenu > li {
+        margin: 0 1rem;
+  }
+  .menu-button-container {
+          display: none;
+          height: 100%;
+          width: 30px;
+          cursor: pointer;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+  }
+  #menu-toggle {
+    display: none;
+    }
+
+
+    /* Legal css */
+    
+
+
+    
+/* this is seince css */
+
+
+.back-bg{
+  background-color: #edf4f0;
+  
+}
+.test-gorilla-works-science-container{
+  background-color: #b3c7be;
+
+}
+
+
+.test-gorilla-science-heading{
+  color: black;
+  font-weight: bold;
+  font-size: 45px;
+}
+.our-screening-science-para{
+  color: black;
+  font-size: 19px;
+  font-weight: 100;
+  
+}
+.see-pricing-science-button{
+  background-color: #ffffff;
+  color: black;
+  border: none;
+}
+
+.request-demo-science-button{
+  background-color:#b3c7be;
+  border: 2px solid black;
+  color: black;
+}
+.science-img-bg{
+  background-color: rgb(50, 121, 161);
+}
+.science-img{
+  height: 620px;
+  width: 621px;
+}
+
+@media screen and (max-width:768px){
+  .science-img{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:1024px){
+  .science-img{
+     width: 100%;
+     height: 100%;
+  }
+}
+
+
+
+@media screen and (max-width:550px){
+  .science-img{
+      height: 310px;
+      width: 311px;
+  }
+}
+
+.science-top-padding{
+  padding-top: 100px;
+}
+
+
+
+
+/* 2nd row------ */
+
+
+.test-gorilla-works-science-container1{
+  background-color:white;
+
+}
+.test-gorilla-science-heading1{
+  color: black;
+  font-weight: bold;
+  font-size: 35px;
+}
+.our-screening-science-para1{
+  color: black;
+  font-size: 19px;
+  font-weight: 100;
+  
+}
+.science-img-bg1{
+  background-color: white;
+}
+.science-img1{
+  height: 550px;
+  width: 621px;
+}
+@media screen and (max-width:768px){
+  .science-img1{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:1024px){
+  .science-img1{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:550px){
+  .science-img1{
+      height: 310px;
+      width: 311px;
+  }
+}
+
+.science-top-padding1{
+  padding-top: 70px;
+}
+
+
+/* 3rd row------ */
+
+
+.test-gorilla-works-science-container2{
+  background-color:rgb(221, 187, 187);
+
+}
+.test-gorilla-science-heading2{
+  color: black;
+  font-weight: bold;
+  font-size: 35px;
+}
+.our-screening-science-para2{
+  color: black;
+  font-size: 19px;
+  font-weight: 100;
+  
+}
+
+.science-img-bg2{
+  background-color: rgb(221, 187, 187);
+}
+.science-img2{
+  height: 400px;
+  width: 621px;
+}
+@media screen and (max-width:768px){
+  .science-img2{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:1024px){
+  .science-img2{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:550px){
+  .science-img2{
+      height: 310px;
+      width: 311px;
+  }
+}
+/* greater padding---------------- */
+.greater-padding{
+  padding-left: 110px;
+}
+
+@media screen and (max-width:1024px){
+  .greater-padding{
+    padding-left: 50px;
+  }
+}
+
+
+@media screen and (max-width:768px){
+  .greater-padding{
+    padding-left: 10px;
+  }
+}
+@media screen and (max-width:445px){
+  .greater-padding{
+    padding-left: 200px;
+  }
+}
+@media screen and (max-width:320px){
+  .greater-padding{
+    padding-left: 130px;
+  }
+}
+
+
+
+
+
+
+
+
+.science-top-padding2{
+  padding-top: 20px;
+}
+.science-top-padding-head-2{
+  padding-top: 30px;
+}
+
+
+/* 4th row------ */
+
+
+.test-gorilla-works-science-container3{
+  background-color:white;
+
+}
+.test-gorilla-science-heading3{
+  color: black;
+  font-weight: bold;
+  font-size: 35px;
+}
+.our-screening-science-para3{
+  color: black;
+  font-size: 19px;
+  font-weight: 100;
+  
+}
+.science-img-bg3{
+  background-color: white;
+}
+.science-img3{
+  height: 500px;
+  width: 600px;
+}
+@media screen and (max-width:768px){
+  .science-img3{
+     width: 100%;
+     height: 80%;
+  }
+}
+@media screen and (max-width:1024px){
+  .science-img3{
+     width: 100%;
+     height: 100%;
+  }
+}
+@media screen and (max-width:550px){
+  .science-img3{
+      height: 310px;
+      width: 311px;
+  }
+}
+
+.science-top-padding3{
+  padding-top: 70px;
+}
+
+
+
+/* it is 8th css -----------------------------------------------------------------------*/
+.talent_row_bg {
+  background-color: #F5F6F6 !important;
+  padding: 50px 40px;
+  
+}
+.talent_heading1 {
+  font-size: 36px;
+font-weight: 800;
+  /* color: black; */
+}
+.talent_para {
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+.talent-btn1 {
+  border: 2px solid black;
+  padding: 15px 30px;
+  font-weight: bold;
+  margin: 25px;
+}
+
+
+.talent-signup-btn1 {
+  background-color: rgb(135, 196, 172);
+  padding: 15px 25px;
+  font-weight: bold;
+  margin: 20px;
+}
+@media screen and (max-width: 404px) {
+    .talent_heading{
+        font-size: 20px;
+        font-family: "Poppins", sans-serif;
+        font-weight: bold;
+        color: black;
+      }
+      .talent_para {
+        font-size: 64px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+      }
+    
+      .react-player{
+          max-width:100%;
+          height:50%;
+      }
+}
+@media screen and (max-width: 634px) {
+  .talent_para {
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+  }
+}
+.cards-head{
+  padding: 60px;
+  }
+  #exampleCheck12{
+      float: left;
+  }
+  .Trylength{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-color: rgb(63, 167, 125) ;
+  }
+  .body-colors{
+    background-color: rgba(255, 255, 255, 0.829);
+  }
+  .Get-started-head{
+    font-weight: 800;
+  }
+  @media (min-width: 634px) and (max-width: 768px) {
+    .Get-started-head{
+      font-weight: 800;
+      font-size: 20px;
+    }
+  }
+  .Try-buttons{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-color: rgb(63, 167, 125) ;
+    background-color:rgb(63, 167, 125) ;
+  }
+  /* this is Terms css----------------------------------- */
+  .headers:focus{
+    box-shadow: none;
+  }
+.atm-2:hover{
+  background-color: #44AA97;
+  color: white;
+}
+/* it is number bg */
+.number-bg{
+  color: #44AA97;
+}
+/* it is table-img */
+.table-img{
+  height: 430px;
+}
+@media (min-width: 320px) and (max-width: 1024px) {
+  .table-img{
+    height: 330px;
+  }
+}
+@media (min-width: 375px) and (max-width: 798px) {
+  .table-img{
+    height: 230px;
+  }}
+  @media (min-width: 320px) and (max-width: 798px) {
+    .table-img{
+      height: 180px;
+    }
+}
+@media (min-width: 425px) and (max-width: 798px) {
+  .table-img{
+    height: 230px;
+  }
+}
+/* it is chukka */
+.chukka{
+  font-size: 50px;
+}
+  .headers{
+    font-weight: 750;
+  }
+  .over-button{
+        color: white;
+        background-color:#44AA97;;
+        border: none;
+  }
+  .radius-btn{
+    border:none;
+   border-radius: 0px;
+  }
+  .radius-btn1{
+    border-radius:10px 10px 0px 0px;
+  }
+  .radius-btn2{
+    border-radius:0px 0px 10px 10px;
+  }
+  /* .over-button:hover {
+    background-color: #44AA97;
+  }
+  .over-button:hover {
+    background-color: #44AA97;
+    transition: 0.2s;
+  } */
+  .Terms-head{
+    font-weight: 800;
+  }
+  .margins-top{
+    padding-top: 50px;
+  }
+  .padding-top{
+    padding-top: 50px;
+  }

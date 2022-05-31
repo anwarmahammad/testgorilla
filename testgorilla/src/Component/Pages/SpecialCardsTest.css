@@ -1,0 +1,46 @@
+.content-div{
+    background-color: white;
+    padding: 30px;
+}
+.cardBgColor{
+    background-color: #376678;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.user-icon{
+    color: white;
+
+    
+}
+
+.special-card-heading{
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+.special-card-para{
+    font-size: 13px;
+    color: #000000DE;
+    font-family: 'Open Sans',Arial,Helvetica,sans-serif;
+    padding-bottom: 20px;
+}
+.special-clock-btn-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    padding-top: 25px;
+}
+.special-stopwatch{
+    color: white;
+    font-size: 28px;
+    margin: 5px;
+}
+.special-button{
+    color: #000000DE;
+    background-color: #ffffff;
+    border: 2px solid black;
+    width: 120px;
+    border-radius: 5px;
+    font-weight: 600;
+}

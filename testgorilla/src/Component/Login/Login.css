@@ -1,0 +1,59 @@
+.btnnavlg{
+    border: 1px solid black;
+    
+    margin-left: 350px;
+}
+.btnnavlg2{
+    border: 1px solid black;
+    margin-left: 35px;
+    margin-right: 20px;
+}
+.lgnavhead{
+    font-size: 40px;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+   
+}
+.lgnavitem{
+    margin-left: 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    
+}
+.lgnavitem:hover{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+.navhtagtext{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+.lgactivehmbtn{
+    color: white;
+    border: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #1e6683;
+}
+.lgactivehmbtn2{
+    color: rgb(184, 173, 173);
+    border:1px solid gainsboro;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+}
+.lgactivehmbtn3{
+    color: white;
+    border:1px solid gainsboro;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #44AA97;
+}
